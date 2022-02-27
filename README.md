@@ -1,5 +1,5 @@
 # Online Malaria Predictor
-online malaria Predictor is a webapp to demonistrate a model which can detect/predict malaria with 96% Accuracy
+Online malaria Predictor is a webapp to demonistrate a model which can detect/predict malaria with 96% Accuracy
 
 ## Aim / Purpose
 Online Malaria Detector - Detects sample weather it is infected with malaria or not this model uses CNN (convolutional neural network) for classifying the images ,This project aims to demonstrate how online disease prediction/detection through Machine learning can save time and prove helpful for remote areas and villages also this helps in digitalization of records and error free mechanism saving time  cost and energy
@@ -29,7 +29,7 @@ Overall wil;l result in Developing smart healtyh Ecosystem.
 
 ## NOTE
 
-==> You can access the website live at:https://onlinemalariapredictor.azurewebsites.net/<br>
+==> You can access the website live at: https://onlinemalariapredictor.azurewebsites.net/<br>
 ==> Python version 3.7 was used for the whole project.<br>
 
 ## Steps to run this application in your system
