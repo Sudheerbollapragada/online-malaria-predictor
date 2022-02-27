@@ -29,7 +29,7 @@ Overall wil;l result in Developing smart healtyh Ecosystem.
 
 ## NOTE
 
-==> You can access the website live at:<br>
+==> You can access the website live at:https://onlinemalariapredictor.azurewebsites.net/<br>
 ==> Python version 3.7 was used for the whole project.<br>
 
 ## Steps to run this application in your system
