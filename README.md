@@ -1,6 +1,8 @@
 ## Online Malaria Predictor
 Online malaria Predictor is a webapp to demonistrate a model which can detect/predict malaria with 96% Accuracy
-
+site can be viewed live (hosted at miscrosft Azure) : https://onlinemalariapredictor.azurewebsites.net/
+** Note - please scroll down the site as images are bigger in  size
+**
 # Screenshots of Project
 
 # Home page of project
@@ -20,7 +22,7 @@ Selecting sample image to be tested for prediction for upload
 # Output image (Malaria not present)
 ![Screenshot (619)](https://user-images.githubusercontent.com/40494619/155872629-bb447a5c-9dbf-45e3-bd22-47cf87aafe7a.png)
 
-# video of project
+# Video of Project
 
 https://user-images.githubusercontent.com/40494619/155873377-164f5b8d-c183-4e14-9e04-847078f6b04a.mp4
 
