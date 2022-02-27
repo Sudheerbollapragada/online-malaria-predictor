@@ -1,13 +1,6 @@
 # Online Malaria Predictor
 Online malaria Predictor is a webapp to demonistrate a model which can detect/predict malaria with 96% Accuracy
 
-## Aim / Purpose
-Online Malaria Detector - Detects sample weather it is infected with malaria or not this model uses CNN (convolutional neural network) for classifying the images ,This project aims to demonstrate how online disease prediction/detection through Machine learning can save time and prove helpful for remote areas and villages also this helps in digitalization of records and error free mechanism saving time  cost and energy
-
-## About
-
-This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
-
 ## Screenshots of Project
 
 # Home page of project
@@ -27,6 +20,12 @@ Selecting sample image to be tested for prediction for upload
 # Output image (Malaria not present)
 ![Screenshot (619)](https://user-images.githubusercontent.com/40494619/155872629-bb447a5c-9dbf-45e3-bd22-47cf87aafe7a.png)
 
+## Aim / Purpose
+Online Malaria Detector - Detects sample weather it is infected with malaria or not this model uses CNN (convolutional neural network) for classifying the images ,This project aims to demonstrate how online disease prediction/detection through Machine learning can save time and prove helpful for remote areas and villages also this helps in digitalization of records and error free mechanism saving time  cost and energy
+
+## About
+
+This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
 ## Future scope
 
 Multiple Disease detectors can be made by taking more accurate datasets training the models model for various diseases. 
