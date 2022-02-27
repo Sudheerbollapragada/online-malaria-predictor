@@ -1,7 +1,7 @@
-# Online Malaria Predictor
+## Online Malaria Predictor
 Online malaria Predictor is a webapp to demonistrate a model which can detect/predict malaria with 96% Accuracy
 
-## Screenshots of Project
+# Screenshots of Project
 
 # Home page of project
 ![Screenshot (607)](https://user-images.githubusercontent.com/40494619/155872550-e7db11d2-b152-4a14-810d-f8c714a4a6b9.png)
