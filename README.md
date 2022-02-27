@@ -8,7 +8,7 @@ Online Malaria Detector - Detects sample weather it is infected with malaria or 
 
 This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
 
-## Future sccope
+## Future scope
 
 Multiple Disease detectors can be made by taking more accurate datasets training the models model for various diseases. 
 Sytem if efficiently Designed will be helpful in faster report generation and treatment decreasing workload.
