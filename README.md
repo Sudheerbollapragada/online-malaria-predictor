@@ -1,7 +1,7 @@
 ## Online Malaria Predictor
 Online malaria Predictor is a webapp to demonistrate a model which can predict malaria with 96% Accuracy
 site can be viewed live <br>
-(hosted at miscrosft Azure) : https://onlinemalariapredictor.azurewebsites.net/
+(hosted at miscrosft Azure) : https://onlinemalariatest.azurewebsites.net/
 
 site is also deployed in herokuapp (online web hosting site) :https://onlinemalariaprediction.herokuapp.com/ 
 
